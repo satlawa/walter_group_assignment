@@ -4,12 +4,14 @@
 3. Python/Jupyter environment
 
 ### Whats next
-1. To get started please fork this project into your github repository
-2. Clone the forked project from your account into your local environment
-3. Open the notebook `Coding_Assessment_Walter_Group.ipynb` in your local environment using Jupyter Notebook
-4. Solve the challenges, you should be able to finish it within **3-5 hours** (If you just finished the school, it may take longer. We will decide case by case, no pressure).
-5. Once finished, commit and push your final solution with the commit message "FINISHED" ( `git add -A && git commit -m "FINISHED"`)
+1. To get started please `fork` this project into your github repository (it should be public)
+2. `Clone` the forked project from your account into your local environment
+3. Open the notebook `Coding_Assessment_Walter_Group.ipynb` in your local environment using `Jupyter Notebook`
+4. Solve the challenges! You should be able to finish it within **3-5 hours** (If it takes longer, no worries, we will decide case by case).
+5. Once finished, commit and push your final solution to your *own* repository with the commit message **"FINISHED"** ( `git add -A && git commit -m "FINISHED"`)
+6. Send us an email with the link to your repository
 
+If you have any question, don't hesitate and ask
 
 #### PLEASE NOTE
 This is **not** a kaggle competition. The results of your model won't be rankend against the others.
